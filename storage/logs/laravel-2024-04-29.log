@@ -1,0 +1,4 @@
+[2024-04-29 14:55:28] production.ERROR: Cannot declare class Modules\Sms\Listeners\SendSmsBookingListen, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class Modules\\Sms\\Listeners\\SendSmsBookingListen, because the name is already in use at /home/travent/public_html/app/Listeners/SendWhatsappMessageListener.php:12)
+[stacktrace]
+#0 {main}
+"} 
